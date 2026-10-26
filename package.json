@@ -1,0 +1,11 @@
+{
+  "name": "@georgemaine/apple-emoji",
+  "version": "1.0.0",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE.md",
+  "description": "Apple emoji images, sprite sheets and search keywords, as static files.",
+  "files": [
+    "emoji",
+    "SHA256SUMS"
+  ]
+}
